@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehab Hassan El_Sebaie</h1>
 <h3 align="center">Data Engineering| Data Analysis</h3>
 
-- 🌱 I’m currently learning **Cloudera, AWS, and Web Scraping**
+- 🌱 I’m currently learning ** AWS, Data Exploration and Data visualization**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Engineering Projects**
 
